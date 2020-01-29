@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/bustabit-script-simulator/static/css/main.ad754675.chunk.css",
-    "main.js": "/bustabit-script-simulator/static/js/main.e3749148.chunk.js",
-    "main.js.map": "/bustabit-script-simulator/static/js/main.e3749148.chunk.js.map",
-    "runtime~main.js": "/bustabit-script-simulator/static/js/runtime~main.87d9c740.js",
-    "runtime~main.js.map": "/bustabit-script-simulator/static/js/runtime~main.87d9c740.js.map",
-    "static/css/2.b694ccba.chunk.css": "/bustabit-script-simulator/static/css/2.b694ccba.chunk.css",
-    "static/js/2.197a5e81.chunk.js": "/bustabit-script-simulator/static/js/2.197a5e81.chunk.js",
-    "static/js/2.197a5e81.chunk.js.map": "/bustabit-script-simulator/static/js/2.197a5e81.chunk.js.map",
+    "main.css": "/bustabit-script-simulator/static/css/main.72ec65fb.chunk.css",
+    "main.js": "/bustabit-script-simulator/static/js/main.db9b443a.chunk.js",
+    "main.js.map": "/bustabit-script-simulator/static/js/main.db9b443a.chunk.js.map",
+    "runtime-main.js": "/bustabit-script-simulator/static/js/runtime-main.a688cf7f.js",
+    "runtime-main.js.map": "/bustabit-script-simulator/static/js/runtime-main.a688cf7f.js.map",
+    "static/css/2.8c804280.chunk.css": "/bustabit-script-simulator/static/css/2.8c804280.chunk.css",
+    "static/js/2.ddd65ce6.chunk.js": "/bustabit-script-simulator/static/js/2.ddd65ce6.chunk.js",
+    "static/js/2.ddd65ce6.chunk.js.map": "/bustabit-script-simulator/static/js/2.ddd65ce6.chunk.js.map",
     "index.html": "/bustabit-script-simulator/index.html",
-    "precache-manifest.441240d4145a845b3b22144ae5ab93bf.js": "/bustabit-script-simulator/precache-manifest.441240d4145a845b3b22144ae5ab93bf.js",
+    "precache-manifest.c48816284de88c3d6b423771ace5c9f4.js": "/bustabit-script-simulator/precache-manifest.c48816284de88c3d6b423771ace5c9f4.js",
     "service-worker.js": "/bustabit-script-simulator/service-worker.js",
-    "static/css/2.b694ccba.chunk.css.map": "/bustabit-script-simulator/static/css/2.b694ccba.chunk.css.map",
-    "static/css/main.ad754675.chunk.css.map": "/bustabit-script-simulator/static/css/main.ad754675.chunk.css.map"
-  }
+    "static/css/2.8c804280.chunk.css.map": "/bustabit-script-simulator/static/css/2.8c804280.chunk.css.map",
+    "static/css/main.72ec65fb.chunk.css.map": "/bustabit-script-simulator/static/css/main.72ec65fb.chunk.css.map",
+    "static/js/2.ddd65ce6.chunk.js.LICENSE": "/bustabit-script-simulator/static/js/2.ddd65ce6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a688cf7f.js",
+    "static/css/2.8c804280.chunk.css",
+    "static/js/2.ddd65ce6.chunk.js",
+    "static/css/main.72ec65fb.chunk.css",
+    "static/js/main.db9b443a.chunk.js"
+  ]
 }
