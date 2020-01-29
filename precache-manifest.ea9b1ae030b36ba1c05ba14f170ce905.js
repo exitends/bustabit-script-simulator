@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f17d3e76b296ab4be6bfb40c225f2f7c",
+    "revision": "f3c54230c51ab5afe69cb81451345eff",
     "url": "/bustabit-script-simulator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bustabit-script-simulator/static/css/2.8c804280.chunk.css"
   },
   {
-    "revision": "107b70ca3fe38521f26d",
+    "revision": "46cce19eb201d17257f3",
     "url": "/bustabit-script-simulator/static/css/main.72ec65fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bustabit-script-simulator/static/js/2.ddd65ce6.chunk.js.LICENSE"
   },
   {
-    "revision": "107b70ca3fe38521f26d",
-    "url": "/bustabit-script-simulator/static/js/main.17ced154.chunk.js"
+    "revision": "46cce19eb201d17257f3",
+    "url": "/bustabit-script-simulator/static/js/main.7660cbb7.chunk.js"
   },
   {
     "revision": "b8ffe4d5845153e34d4c",
