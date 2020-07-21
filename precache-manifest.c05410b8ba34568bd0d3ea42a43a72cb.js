@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f49c5ed463e705f980cb2d974922946",
+    "revision": "cea95a5de97ec2182f9fe1887a4614d6",
     "url": "/bustabit-script-simulator/index.html"
   },
   {
-    "revision": "69503571e9762565ba14",
+    "revision": "e0828f4ad095bb1b8cfd",
     "url": "/bustabit-script-simulator/static/css/2.8c804280.chunk.css"
   },
   {
-    "revision": "e17ba2fca63389875731",
+    "revision": "0af22f4cc63b04e0f8c2",
     "url": "/bustabit-script-simulator/static/css/main.72ec65fb.chunk.css"
   },
   {
-    "revision": "69503571e9762565ba14",
-    "url": "/bustabit-script-simulator/static/js/2.ddd65ce6.chunk.js"
+    "revision": "e0828f4ad095bb1b8cfd",
+    "url": "/bustabit-script-simulator/static/js/2.ca2a6fac.chunk.js"
   },
   {
     "revision": "6ae1564999d323b2d19aca22da8fdfe7",
-    "url": "/bustabit-script-simulator/static/js/2.ddd65ce6.chunk.js.LICENSE"
+    "url": "/bustabit-script-simulator/static/js/2.ca2a6fac.chunk.js.LICENSE"
   },
   {
-    "revision": "e17ba2fca63389875731",
-    "url": "/bustabit-script-simulator/static/js/main.1d540e64.chunk.js"
+    "revision": "0af22f4cc63b04e0f8c2",
+    "url": "/bustabit-script-simulator/static/js/main.3d39d267.chunk.js"
   },
   {
     "revision": "b8ffe4d5845153e34d4c",
