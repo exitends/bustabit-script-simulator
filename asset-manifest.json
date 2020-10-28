@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bustabit-script-simulator/static/css/main.322fc9b0.chunk.css",
-    "main.js": "/bustabit-script-simulator/static/js/main.ac82c15a.chunk.js",
-    "main.js.map": "/bustabit-script-simulator/static/js/main.ac82c15a.chunk.js.map",
+    "main.js": "/bustabit-script-simulator/static/js/main.d07d6708.chunk.js",
+    "main.js.map": "/bustabit-script-simulator/static/js/main.d07d6708.chunk.js.map",
     "runtime-main.js": "/bustabit-script-simulator/static/js/runtime-main.2c96e0c8.js",
     "runtime-main.js.map": "/bustabit-script-simulator/static/js/runtime-main.2c96e0c8.js.map",
     "static/css/2.160cff76.chunk.css": "/bustabit-script-simulator/static/css/2.160cff76.chunk.css",
     "static/js/2.0081766a.chunk.js": "/bustabit-script-simulator/static/js/2.0081766a.chunk.js",
     "static/js/2.0081766a.chunk.js.map": "/bustabit-script-simulator/static/js/2.0081766a.chunk.js.map",
     "index.html": "/bustabit-script-simulator/index.html",
-    "precache-manifest.473efc92a2dd6168b6f863792e65d4cb.js": "/bustabit-script-simulator/precache-manifest.473efc92a2dd6168b6f863792e65d4cb.js",
+    "precache-manifest.d5bf4866f2568f1b282222322a7e339f.js": "/bustabit-script-simulator/precache-manifest.d5bf4866f2568f1b282222322a7e339f.js",
     "service-worker.js": "/bustabit-script-simulator/service-worker.js",
     "static/css/2.160cff76.chunk.css.map": "/bustabit-script-simulator/static/css/2.160cff76.chunk.css.map",
     "static/css/main.322fc9b0.chunk.css.map": "/bustabit-script-simulator/static/css/main.322fc9b0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.160cff76.chunk.css",
     "static/js/2.0081766a.chunk.js",
     "static/css/main.322fc9b0.chunk.css",
-    "static/js/main.ac82c15a.chunk.js"
+    "static/js/main.d07d6708.chunk.js"
   ]
 }

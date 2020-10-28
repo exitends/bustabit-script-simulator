@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bustabit-script-simulator/precache-manifest.473efc92a2dd6168b6f863792e65d4cb.js"
+  "/bustabit-script-simulator/precache-manifest.d5bf4866f2568f1b282222322a7e339f.js"
 );
 
 self.addEventListener('message', (event) => {
